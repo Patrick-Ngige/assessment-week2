@@ -10,7 +10,7 @@ form{
     padding: 4%;
     justify-content: center;
     flex-direction: column;
-    background-color: rgb(88, 144, 197);
+    background-color:   #618685;
     border-radius: 10px;
 }
 .calculator {
@@ -22,7 +22,7 @@ form{
 	text-align: center;
 }
 label{
-    color: #000000;
+    color: rgb(236, 246, 255);
     font-weight: 700;
 }
 input[type="number"], select {
